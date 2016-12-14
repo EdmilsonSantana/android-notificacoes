@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-notificacoes</string>
+    <string name="agendar">AGENDAR</string>
+    <string name="time">Time(s)</string>
+</resources>
